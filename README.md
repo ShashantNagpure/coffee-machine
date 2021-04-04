@@ -4,7 +4,7 @@ Steps:
 1. cd to downloaded local directory
 
 2. python -m pip install .\lib\apsw-3.34.0-cp39-cp39-win_amd64.whl
- // install apsw using provided whl file, or use ref: https://rogerbinns.github.io/apsw/download.html
+ // install apsw using provided whl file for windows, or use ref: https://rogerbinns.github.io/apsw/download.html
 
 3. pip install nose
 4. pip install coverage
