@@ -9,4 +9,4 @@ Steps:
 6. coverage report // for seeing coverage
 
 
-input payload for running tests: payload/
+input payload for running tests: payload/input1.json
