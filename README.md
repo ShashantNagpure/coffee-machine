@@ -14,3 +14,6 @@ input payload for running tests: payload/input1.json
 sample test output for payload:
 ![Screenshot (20)](https://user-images.githubusercontent.com/29044806/113516740-8f33be80-9599-11eb-8224-bf0468567b96.png)
 
+coverage:
+![Screenshot (22)](https://user-images.githubusercontent.com/29044806/113516793-e20d7600-9599-11eb-9d61-cd999b7810f8.png)
+
