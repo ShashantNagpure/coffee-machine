@@ -68,6 +68,10 @@ class MachineDB:
     @staticmethod
     def get_connection():
         con = apsw.Connection('coffee.db')
+
+        # if the database is locked such as when another connection is making changes,
+        # SQLite will keep retrying this amount of time
         con.setbusytimeout(500)
+
         con.cursor().execute('pragma journal_mode=wal')
         return con.cursor()
