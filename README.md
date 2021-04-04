@@ -7,3 +7,6 @@ Steps:
 4. pip install coverage
 5. coverage run --source=machine -m nose .\machine\test_machine.py --debug=machine #for running integration test
 6. coverage report // for seeing coverage
+
+
+input payload for running tests: payload/
