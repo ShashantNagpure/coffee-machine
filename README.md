@@ -1,5 +1,10 @@
 # coffee-machine
 
+Machine coding problem:
+ Created a coffee machine which serves n orders at a time
+ Using multiprocessing with sqlite3(apsw)
+ Refer input1.json for sample inputs
+
 Steps:
 1. cd to downloaded local directory
 
